@@ -1,0 +1,21 @@
+/*places div in position over red rectangle (top left) to be made into a on/off button */
+.pwrBtn{
+    width: 24px !important;
+    height: 10px !important;
+    margin-top: 11% !important;
+    margin-left: 32% !important;
+    
+}
+
+/*places div in position over red circle to be made into a track change button */
+.chgBtn{
+    width: 66px !important;
+    height: 66px !important;
+    margin-left: 65% !important;
+    margin-top: 13% !important;
+}
+
+/*#infoDisplay{*/
+/*    display:none !important;*/
+    
+/*}*/
